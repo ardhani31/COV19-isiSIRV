@@ -3,6 +3,7 @@
 
 import numpy as np
 import pandas as pd
+from covsirphy.util.error import deprecate
 from covsirphy.ode.mbase import ModelBase
 
 
